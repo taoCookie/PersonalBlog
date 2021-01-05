@@ -49,7 +49,7 @@
     "webpack-merge": "^4.2.1"
   },
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "element-ui": "^2.8.2",
     "express": "^4.17.0",
     "mysql": "^2.17.1",
